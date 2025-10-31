@@ -167,8 +167,11 @@ This task mirrors what junior DevOps engineers do daily:
 - **Troubleshooting** connectivity and security issues
 - **Following best practices** (tagging, monitoring, security)
 
+<img width="1651" height="789" alt="image" src="https://github.com/user-attachments/assets/64a2fe6f-b697-4af8-8a76-9fbfcefd3711" />
+
+
 
 
 ## Author
 
-IamEfemena
+IamEfemena (Richiesure)
